@@ -1,6 +1,10 @@
 # Crossdeck — Android SDK
 
-The Crossdeck SDK for Android (Kotlin, Java-friendly).
+The Android SDK for [Crossdeck](https://cross-deck.com/) (Kotlin, Java-friendly) — verified
+subscriptions, entitlements, errors and product telemetry, joined by identity onto one
+customer timeline alongside your web and iOS users.
+
+[Developer documentation](https://cross-deck.com/docs/)
 
 > ⚠️ **PRE-RELEASE — not yet published.** This SDK is source-complete in
 > the monorepo but has **not shipped to Maven Central**; the Gradle
@@ -301,3 +305,17 @@ inherits a version pin from us.
 ## License
 
 MIT — see [LICENSE](./LICENSE).
+
+---
+
+## Support
+
+Bugs and feature requests belong in this repository's
+[issues](https://github.com/Crossdeckhq/crossdeck-android/issues). For anything touching your
+account or data, [contact us](https://cross-deck.com/contact/) rather than opening a public issue.
+
+**Security:** report vulnerabilities privately to **security@cross-deck.com** — see
+[SECURITY.md](SECURITY.md).
+
+Crossdeck is an independent product created and operated by
+[Cross Constellation](https://crossconstellation.com/).
